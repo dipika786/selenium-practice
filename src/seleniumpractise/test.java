@@ -23,8 +23,7 @@ public class test {
 	// manage method which returns instance of the options interface...which internally return a window method that return 
 	//driver. manage() is a method that returns instance of options interface, now the options interface has method window() 
 	//that returns instance of window interface, this window interface has method maximize() which maximizes the window.
-	
-	    //Click on the Link Text using click() command    
+	//Click on the Link Text using click() command    
        // driver.findElement(By.linkText("This is a Link")).click();  
 
         //Go back to Home Page  
