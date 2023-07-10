@@ -1,4 +1,4 @@
-package seleniumpractise;
+package seleniumpractise1;
 
 import java.time.Duration;
 

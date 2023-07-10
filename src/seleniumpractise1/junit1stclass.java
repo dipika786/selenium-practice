@@ -1,4 +1,4 @@
-package seleniumpractise;
+package seleniumpractise1;
 
 import static org.junit.Assert.*;
 
